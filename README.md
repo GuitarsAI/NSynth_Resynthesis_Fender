@@ -4,6 +4,8 @@
 
 https://nbviewer.jupyter.org/github/GuitarsAI/NSynth_Resynthesis_Fender/blob/master/NSynth_Resynthesis_Fender_E2.ipynb
 
+<img src="fender_strato.jpg" width="400">
+
 Renato Profeta<br>
 PhD Candidate at [TU Ilmenau](https://www.tu-ilmenau.de/en/applied-media-systems-group/)<br>
 Artificial Intelligence Applied to Guitars<br>
